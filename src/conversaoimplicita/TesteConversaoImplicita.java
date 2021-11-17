@@ -23,7 +23,7 @@ public class TesteConversaoImplicita {
         
         /// ja neste caso se os valores forem inserido incorretamente o resultado será um retorno incorreto.
         JOptionPane.showMessageDialog(null, "Quadrado de 3 = " + ex.retornaQuadradoNumero('3'));
-    
+        //terminado
     }
     
 }
